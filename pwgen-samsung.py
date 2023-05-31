@@ -58,7 +58,7 @@ print("After entering the wrong password for the third time, you will receive a"
 print("hexadecimal code from which the password can be calculated,")
 print("e.g. 07088120410C0000")
 print("")
-print("Please enter the code: ")
+print("Please enter the code: 264006108206380000" )
 code = raw_input()
 hash = []
 for i in range(1, len(code) // 2):
